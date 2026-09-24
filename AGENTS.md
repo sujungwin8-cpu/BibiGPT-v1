@@ -60,3 +60,6 @@ If adding tests, colocate them as `*.test.ts` or `*.test.tsx` near changed modul
 - Copy `.example.env` to `.env`; never commit secrets.
 - Required core services are OpenAI and Upstash; Sentry/Lemon/Segment are optional.
 - Avoid sharing built Docker images that contain `.env`.
+
+## Notion 문서 기록
+이 저장소의 노션 문서는 `docs/notion/README.md`의 절차와 공용 작성 규칙을 따릅니다. 의미 있는 변경 시 현재 설명과 새 이력(.md + .json)을 함께 남깁니다. 과거 이력은 덮어쓰지 않습니다. 실제 실행·배포 확인이 없으면 확인 기록 없음으로 적습니다.

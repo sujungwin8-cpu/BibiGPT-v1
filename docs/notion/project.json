@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "project_id": "bibigpt-v1",
+  "name": "BibiGPT-v1",
+  "kind": "software",
+  "notion_page_id": "3e52127e-4d3c-8196-9837-ca7d167d00c5",
+  "github_repository": "sujungwin8-cpu/BibiGPT-v1",
+  "source_paths": [
+    "."
+  ],
+  "current_file": "current.md",
+  "history_dir": "history",
+  "manual_file": "manual.md"
+}
